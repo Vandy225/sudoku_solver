@@ -9,6 +9,6 @@ To compile, just type "make"
 
 To run, run the "main" binary
 
-If you want to test different inputs, you need to change the contents of the file "sudoku.input". 
-There is another file in the directory called "sudoku.input1" which contains another sudoku configuration.
-If you want to test this, just rename the input file or replace the contents of "sudoku.input"
+If you want to test different inputs, move one of the files in the "input/" directory into the main project directory with the name "sudoku.input". 
+
+Repeat this process if you want to test different inputs. Two of the files in the "input/" directory have solutions, and the other one does not.
