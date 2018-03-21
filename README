@@ -1,0 +1,14 @@
+Written by Joshua Vandenhoek
+ID: #001142936
+Assessment: Assignment 3, Programming Portion
+Course: CPSC 3750
+Instructor: Yllias Chali
+Date: March 21, 2018
+
+To compile, just type "make"
+
+To run, run the "main" binary
+
+If you want to test different inputs, you need to change the contents of the file "sudoku.input". 
+There is another file in the directory called "sudoku.input1" which contains another sudoku configuration.
+If you want to test this, just rename the input file or replace the contents of "sudoku.input"
